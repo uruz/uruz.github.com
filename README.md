@@ -1,4 +1,0 @@
-uruz.github.com
-===============
-
-website
